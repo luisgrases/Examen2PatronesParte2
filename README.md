@@ -69,7 +69,7 @@ public void move(int x, int y) {
 public setMovementBehaviour(MovementBehaviour movementBehaviour) {
 	//...
 }
-	```
+```
 
 Utilizando `setMovementBehaviour` se inyecta el tipo de movimiento deseado.
 
